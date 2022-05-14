@@ -1,0 +1,51 @@
+{
+  "customer": [
+    {
+      "name": "AAAAA",
+      "address": "XXXX",
+      "orderHistory": [
+        {
+          "orderid": "1",
+          "purchaseDate": "2022-01-13T08:15:54.051Z",
+          "price": 533
+        },
+        {
+          "orderid": "2",
+          "purchaseDate": "2022-03-13T08:15:54.051Z",
+          "price": 65
+        },
+        {
+          "orderid": "3",
+          "purchaseDate": "2022-05-13T08:15:54.051Z",
+          "price": 272.32
+        },
+        {
+            "orderid": "4",
+            "purchaseDate": "2022-05-10T08:15:54.051Z",
+            "price": 100.32
+          }
+      ]
+    },
+    {
+      "name": "BBBB",
+      "address": "XXXX",
+      "orderHistory": [
+        {
+          "orderid": "4",
+          "purchaseDate": "2022-01-01T08:15:54.051Z",
+          "price": 100.32
+        },
+        {
+          "orderid": "5",
+          "purchaseDate": "2022-01-15T08:15:54.051Z",
+          "price": 75.32
+        },
+        {
+          "orderid": "6",
+          "purchaseDate": "2022-04-13T08:15:54.051Z",
+          "price": 533.32
+        }
+      ]
+    }
+  ]
+}

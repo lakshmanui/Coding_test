@@ -21,4 +21,3 @@ For building and running the application you need:
 
 - Right click on the test file and perform run as JUnit Test 
 
-# Coding_test

@@ -29,7 +29,6 @@ For building and running the application you need:
 **Output**
 <img width="625" alt="Screen Shot 2022-05-16 at 1 48 22 PM" src="https://user-images.githubusercontent.com/16219395/168652842-d5b3a5c1-c325-428f-a423-765822c12fa7.png">
 
-
 ## Running unit tests
 
 - Right click on the test file and perform run as JUnit Test 
